@@ -17,7 +17,7 @@
 # GitHub Host Start
 140.82.114.4                  alive.github.com
 140.82.114.4                  live.github.com
-3.93.37.92                    github.githubassets.com
+54.85.165.67                  github.githubassets.com
 140.82.114.4                  central.github.com
 151.101.84.133                desktop.githubusercontent.com
 140.82.114.4                  assets-cdn.github.com
@@ -56,11 +56,11 @@
 13.107.219.40                 vscode.dev
 
 
-# Update time: 2022-10-17T11:10:42+08:00
+# Update time: 2022-10-17T13:26:02+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-10-17T11:10:42+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-10-17T13:26:02+08:00（内容无变动不会更新）
 
 ### 感谢
 
