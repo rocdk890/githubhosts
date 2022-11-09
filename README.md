@@ -16,31 +16,33 @@
 ```bash
 # GitHub Host Start
 140.82.114.4                  alive.github.com
-54.197.199.166                github.githubassets.com
-140.82.114.4                  central.github.com
-54.237.203.45                 desktop.githubusercontent.com
+140.82.114.4                  live.github.com
+52.90.142.32                  github.githubassets.com
+44.211.234.57                 desktop.githubusercontent.com
+140.82.114.4                  assets-cdn.github.com
 151.101.1.6                   github.map.fastly.net
 140.82.114.4                  gist.github.com
 185.199.108.153               github.io
-140.82.114.4                  github.com
-44.211.234.57                 user-images.githubusercontent.com
-54.145.176.18                 favicons.githubusercontent.com
-54.198.215.57                 avatars5.githubusercontent.com
-54.221.168.197                avatars2.githubusercontent.com
-44.200.145.72                 avatars1.githubusercontent.com
+3.87.239.253                  raw.githubusercontent.com
+3.87.239.253                  user-images.githubusercontent.com
+18.212.24.42                  favicons.githubusercontent.com
+3.88.101.138                  avatars5.githubusercontent.com
+34.204.201.62                 avatars3.githubusercontent.com
 140.82.114.4                  codeload.github.com
-72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
-72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
+72.21.206.80                  github-cloud.s3.amazonaws.com
+72.21.206.80                  github-com.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.113.18                 github.community
-3.236.45.23                   media.githubusercontent.com
+140.82.114.4                  collector.github.com
+44.212.95.36                  pipelines.actions.githubusercontent.com
+13.107.219.40                 vscode.dev
 
 
-# Update time: 2022-11-10T00:20:03+08:00
+# Update time: 2022-11-10T02:17:26+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-10T00:20:03+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-10T02:17:26+08:00（内容无变动不会更新）
 
 ### 感谢
 
