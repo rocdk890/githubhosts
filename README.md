@@ -16,51 +16,31 @@
 ```bash
 # GitHub Host Start
 140.82.114.4                  alive.github.com
-140.82.114.4                  live.github.com
-3.83.43.0                     github.githubassets.com
+54.197.199.166                github.githubassets.com
 140.82.114.4                  central.github.com
-3.239.98.12                   desktop.githubusercontent.com
-140.82.114.4                  assets-cdn.github.com
-3.95.133.140                  camo.githubusercontent.com
+54.237.203.45                 desktop.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
-151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.4                  gist.github.com
 185.199.108.153               github.io
 140.82.114.4                  github.com
-192.0.66.2                    github.blog
-140.82.114.4                  api.github.com
-3.238.138.102                 raw.githubusercontent.com
-35.153.168.166                user-images.githubusercontent.com
-44.211.234.57                 favicons.githubusercontent.com
-3.236.82.79                   avatars5.githubusercontent.com
-3.238.246.87                  avatars4.githubusercontent.com
-50.17.178.130                 avatars3.githubusercontent.com
-18.207.134.67                 avatars2.githubusercontent.com
-3.90.150.85                   avatars1.githubusercontent.com
-3.88.149.233                  avatars0.githubusercontent.com
-18.234.167.191                avatars.githubusercontent.com
+44.211.234.57                 user-images.githubusercontent.com
+54.145.176.18                 favicons.githubusercontent.com
+54.198.215.57                 avatars5.githubusercontent.com
+54.221.168.197                avatars2.githubusercontent.com
+44.200.145.72                 avatars1.githubusercontent.com
 140.82.114.4                  codeload.github.com
-72.21.206.80                  github-cloud.s3.amazonaws.com
-72.21.206.80                  github-com.s3.amazonaws.com
 72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
 72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
-72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.113.18                 github.community
-52.224.38.193                 github.dev
-140.82.114.4                  collector.github.com
-3.83.49.109                   pipelines.actions.githubusercontent.com
-44.212.50.59                  media.githubusercontent.com
-54.85.220.79                  cloud.githubusercontent.com
-34.204.48.110                 objects.githubusercontent.com
-13.107.219.40                 vscode.dev
+3.236.45.23                   media.githubusercontent.com
 
 
-# Update time: 2022-11-09T22:17:18+08:00
+# Update time: 2022-11-10T00:20:03+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-09T22:17:18+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-10T00:20:03+08:00（内容无变动不会更新）
 
 ### 感谢
 
