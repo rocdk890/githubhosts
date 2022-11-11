@@ -16,27 +16,23 @@
 ```bash
 # GitHub Host Start
 140.82.114.4                  alive.github.com
-3.90.111.175                  github.githubassets.com
-140.82.114.4                  central.github.com
-3.95.207.30                   desktop.githubusercontent.com
-140.82.114.4                  assets-cdn.github.com
+52.91.144.30                  github.githubassets.com
+3.80.82.140                   desktop.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
-140.82.114.4                  gist.github.com
 185.199.108.153               github.io
-52.91.201.42                  favicons.githubusercontent.com
-54.166.93.113                 avatars4.githubusercontent.com
-140.82.114.4                  codeload.github.com
+192.0.66.2                    github.blog
 72.21.206.80                  github-cloud.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.113.18                 github.community
-140.82.114.4                  collector.github.com
+52.224.38.193                 github.dev
+13.107.213.51                 vscode.dev
 
 
-# Update time: 2022-11-11T04:15:57+08:00
+# Update time: 2022-11-11T09:14:57+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-11T04:15:57+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-11T09:14:57+08:00（内容无变动不会更新）
 
 ### 感谢
 
