@@ -15,20 +15,17 @@
 ### 复制下面的内容
 ```bash
 # GitHub Host Start
-44.192.90.213                 github.githubassets.com
-140.82.112.4                  assets-cdn.github.com
-3.238.219.229                 camo.githubusercontent.com
+3.90.201.220                  github.githubassets.com
+54.235.47.239                 desktop.githubusercontent.com
+140.82.112.4                  gist.github.com
 140.82.112.4                  api.github.com
-52.55.52.167                  avatars4.githubusercontent.com
-54.198.208.101                avatars3.githubusercontent.com
-52.3.227.162                  avatars1.githubusercontent.com
 
 
-# Update time: 2022-11-13T22:12:18+08:00
+# Update time: 2022-11-14T00:18:20+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-13T22:12:18+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-14T00:18:20+08:00（内容无变动不会更新）
 
 ### 感谢
 
