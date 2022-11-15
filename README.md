@@ -16,30 +16,24 @@
 ```bash
 # GitHub Host Start
 140.82.112.3                  alive.github.com
-140.82.112.3                  live.github.com
-34.229.65.231                 github.githubassets.com
-3.220.167.56                  desktop.githubusercontent.com
+44.204.70.69                  github.githubassets.com
+3.80.38.182                   desktop.githubusercontent.com
+44.204.202.88                 camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
-140.82.112.3                  gist.github.com
 185.199.108.153               github.io
-54.242.130.183                raw.githubusercontent.com
-34.201.19.189                 user-images.githubusercontent.com
-54.158.150.64                 favicons.githubusercontent.com
-18.234.142.138                avatars5.githubusercontent.com
-44.200.122.83                 avatars4.githubusercontent.com
-140.82.112.3                  codeload.github.com
+44.212.93.142                 raw.githubusercontent.com
+3.82.50.160                   user-images.githubusercontent.com
+3.239.175.133                 avatars5.githubusercontent.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.112.18                 github.community
-140.82.112.3                  collector.github.com
-34.224.18.22                  pipelines.actions.githubusercontent.com
 
 
-# Update time: 2022-11-15T09:08:00+08:00
+# Update time: 2022-11-15T11:12:34+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-15T09:08:00+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-15T11:12:34+08:00（内容无变动不会更新）
 
 ### 感谢
 
