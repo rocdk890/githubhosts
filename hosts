@@ -1,24 +1,22 @@
 # GitHub Host Start
-3.239.12.36                   github.githubassets.com
-140.82.114.4                  central.github.com
-54.164.187.119                desktop.githubusercontent.com
+140.82.114.4                  alive.github.com
+140.82.114.4                  live.github.com
+34.213.70.116                 github.githubassets.com
+34.221.222.41                 desktop.githubusercontent.com
+140.82.114.4                  assets-cdn.github.com
 151.101.1.6                   github.map.fastly.net
 140.82.114.4                  gist.github.com
 185.199.108.153               github.io
-140.82.114.4                  github.com
-52.203.208.220                raw.githubusercontent.com
-3.236.230.153                 avatars5.githubusercontent.com
-50.16.7.97                    avatars4.githubusercontent.com
-35.172.184.125                avatars3.githubusercontent.com
-3.236.230.153                 avatars2.githubusercontent.com
-35.175.245.113                avatars1.githubusercontent.com
+34.213.70.116                 raw.githubusercontent.com
+52.12.108.180                 user-images.githubusercontent.com
+34.213.70.116                 avatars1.githubusercontent.com
+18.237.26.198                 avatars0.githubusercontent.com
+34.213.70.116                 avatars.githubusercontent.com
 140.82.114.4                  codeload.github.com
-72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
-72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
+72.21.206.80                  github-cloud.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.113.18                 github.community
-18.204.219.151                media.githubusercontent.com
 
 
-# Update time: 2022-11-18T12:17:24+08:00
+# Update time: 2022-11-18T14:18:02+08:00
 # GitHub Host End
