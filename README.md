@@ -16,16 +16,14 @@
 ```bash
 # GitHub Host Start
 140.82.114.4                  alive.github.com
-54.163.212.149                github.githubassets.com
-44.211.24.55                  desktop.githubusercontent.com
-140.82.114.4                  gist.github.com
+34.230.48.170                 github.githubassets.com
 
 
-# Update time: 2022-11-19T00:18:25+08:00
+# Update time: 2022-11-19T02:18:17+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-19T00:18:25+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-19T02:18:17+08:00（内容无变动不会更新）
 
 ### 感谢
 
