@@ -15,34 +15,34 @@
 ### 复制下面的内容
 ```bash
 # GitHub Host Start
-140.82.112.4                  live.github.com
-44.211.57.83                  github.githubassets.com
-3.93.50.171                   desktop.githubusercontent.com
+140.82.112.4                  alive.github.com
+3.93.50.171                   github.githubassets.com
+140.82.112.4                  central.github.com
+3.89.81.50                    desktop.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 140.82.112.4                  gist.github.com
 185.199.108.153               github.io
 140.82.112.4                  github.com
-3.93.47.159                   raw.githubusercontent.com
-35.170.82.129                 user-images.githubusercontent.com
-44.192.26.187                 favicons.githubusercontent.com
-3.91.33.240                   avatars5.githubusercontent.com
-3.89.81.50                    avatars4.githubusercontent.com
-3.91.181.159                  avatars3.githubusercontent.com
-54.234.81.78                  avatars2.githubusercontent.com
-18.232.86.244                 avatars1.githubusercontent.com
-72.21.206.80                  github-cloud.s3.amazonaws.com
-72.21.206.80                  github-com.s3.amazonaws.com
-72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
+140.82.112.4                  api.github.com
+54.196.158.19                 raw.githubusercontent.com
+18.232.86.244                 favicons.githubusercontent.com
+3.238.174.214                 avatars4.githubusercontent.com
+107.20.117.106                avatars3.githubusercontent.com
+18.207.4.90                   avatars1.githubusercontent.com
+18.212.149.23                 avatars0.githubusercontent.com
+44.211.43.225                 avatars.githubusercontent.com
 72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
-185.199.108.153               githubstatus.com
-140.82.114.18                 github.community
+72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+140.82.112.4                  collector.github.com
+18.207.108.143                pipelines.actions.githubusercontent.com
+44.203.113.8                  cloud.githubusercontent.com
 
 
-# Update time: 2022-11-21T11:13:22+08:00
+# Update time: 2022-11-21T12:21:41+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-21T11:13:22+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-21T12:21:41+08:00（内容无变动不会更新）
 
 ### 感谢
 
