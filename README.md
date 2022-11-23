@@ -15,32 +15,31 @@
 ### 复制下面的内容
 ```bash
 # GitHub Host Start
+140.82.112.4                  alive.github.com
+44.193.11.19                  github.githubassets.com
 140.82.112.4                  central.github.com
+44.192.38.225                 desktop.githubusercontent.com
 140.82.112.4                  assets-cdn.github.com
+54.84.197.128                 camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
-151.101.1.6                   github.global.ssl.fastly.net
-140.82.112.4                  gist.github.com
 185.199.108.153               github.io
-54.145.233.140                raw.githubusercontent.com
-54.210.3.52                   user-images.githubusercontent.com
-3.239.227.8                   favicons.githubusercontent.com
-3.236.110.183                 avatars4.githubusercontent.com
-54.87.238.145                 avatars2.githubusercontent.com
-34.227.225.230                avatars1.githubusercontent.com
+140.82.112.4                  api.github.com
+34.236.192.44                 raw.githubusercontent.com
+54.161.214.149                avatars4.githubusercontent.com
+54.196.128.21                 avatars3.githubusercontent.com
+3.82.203.115                  avatars1.githubusercontent.com
+140.82.112.4                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
-72.21.206.80                  github-com.s3.amazonaws.com
-72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.114.18                 github.community
-140.82.112.4                  collector.github.com
-3.82.187.73                   pipelines.actions.githubusercontent.com
+13.107.213.51                 vscode.dev
 
 
-# Update time: 2022-11-23T11:00:15+08:00
+# Update time: 2022-11-23T12:15:46+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-23T11:00:15+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-23T12:15:46+08:00（内容无变动不会更新）
 
 ### 感谢
 
