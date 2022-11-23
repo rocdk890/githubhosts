@@ -15,31 +15,22 @@
 ### 复制下面的内容
 ```bash
 # GitHub Host Start
-140.82.112.4                  alive.github.com
+140.82.112.4                  live.github.com
 44.193.11.19                  github.githubassets.com
-140.82.112.4                  central.github.com
-44.192.38.225                 desktop.githubusercontent.com
 140.82.112.4                  assets-cdn.github.com
-54.84.197.128                 camo.githubusercontent.com
-151.101.1.6                   github.map.fastly.net
-185.199.108.153               github.io
-140.82.112.4                  api.github.com
-34.236.192.44                 raw.githubusercontent.com
-54.161.214.149                avatars4.githubusercontent.com
-54.196.128.21                 avatars3.githubusercontent.com
-3.82.203.115                  avatars1.githubusercontent.com
+54.87.238.145                 camo.githubusercontent.com
+34.229.65.189                 raw.githubusercontent.com
 140.82.112.4                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.114.18                 github.community
-13.107.213.51                 vscode.dev
 
 
-# Update time: 2022-11-23T12:15:46+08:00
+# Update time: 2022-11-23T14:16:07+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-23T12:15:46+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-23T14:16:07+08:00（内容无变动不会更新）
 
 ### 感谢
 
