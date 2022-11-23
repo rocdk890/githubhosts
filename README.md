@@ -15,30 +15,32 @@
 ### 复制下面的内容
 ```bash
 # GitHub Host Start
-44.198.187.244                github.githubassets.com
-54.85.51.212                  desktop.githubusercontent.com
+140.82.112.4                  central.github.com
 140.82.112.4                  assets-cdn.github.com
 151.101.1.6                   github.map.fastly.net
-140.82.112.4                  github.com
-140.82.112.4                  api.github.com
-3.239.76.10                   raw.githubusercontent.com
-3.235.93.157                  user-images.githubusercontent.com
-3.239.231.160                 avatars5.githubusercontent.com
-3.90.243.153                  avatars3.githubusercontent.com
-54.234.44.133                 avatars2.githubusercontent.com
-54.173.87.0                   avatars1.githubusercontent.com
-44.210.83.51                  avatars0.githubusercontent.com
+151.101.1.6                   github.global.ssl.fastly.net
+140.82.112.4                  gist.github.com
+185.199.108.153               github.io
+54.145.233.140                raw.githubusercontent.com
+54.210.3.52                   user-images.githubusercontent.com
+3.239.227.8                   favicons.githubusercontent.com
+3.236.110.183                 avatars4.githubusercontent.com
+54.87.238.145                 avatars2.githubusercontent.com
+34.227.225.230                avatars1.githubusercontent.com
+72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
-72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
-72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-44.210.83.51                  objects.githubusercontent.com
+72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
+185.199.108.153               githubstatus.com
+140.82.114.18                 github.community
+140.82.112.4                  collector.github.com
+3.82.187.73                   pipelines.actions.githubusercontent.com
 
 
-# Update time: 2022-11-23T06:13:07+08:00
+# Update time: 2022-11-23T11:00:15+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-23T06:13:07+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-23T11:00:15+08:00（内容无变动不会更新）
 
 ### 感谢
 
