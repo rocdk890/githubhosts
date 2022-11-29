@@ -17,7 +17,7 @@
 # GitHub Host Start
 140.82.114.3                  alive.github.com
 140.82.114.3                  live.github.com
-3.81.231.29                   github.githubassets.com
+54.197.113.104                github.githubassets.com
 140.82.114.3                  central.github.com
 151.101.84.133                desktop.githubusercontent.com
 140.82.114.3                  assets-cdn.github.com
@@ -55,11 +55,11 @@
 151.101.84.133                objects.githubusercontent.com
 
 
-# Update time: 2022-11-30T00:17:03+08:00
+# Update time: 2022-11-30T02:15:07+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-30T00:17:03+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-30T02:15:07+08:00（内容无变动不会更新）
 
 ### 感谢
 
