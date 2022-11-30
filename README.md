@@ -17,11 +17,8 @@
 # GitHub Host Start
 140.82.112.3                  alive.github.com
 140.82.112.3                  live.github.com
-18.207.187.247                github.githubassets.com
 140.82.112.3                  central.github.com
-52.201.251.9                  desktop.githubusercontent.com
 140.82.112.3                  assets-cdn.github.com
-54.226.188.87                 camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.112.3                  gist.github.com
@@ -29,16 +26,6 @@
 140.82.112.3                  github.com
 192.0.66.2                    github.blog
 140.82.112.3                  api.github.com
-54.84.123.20                  raw.githubusercontent.com
-54.147.107.174                user-images.githubusercontent.com
-3.238.122.65                  favicons.githubusercontent.com
-3.227.248.113                 avatars5.githubusercontent.com
-3.93.185.119                  avatars4.githubusercontent.com
-52.201.251.9                  avatars3.githubusercontent.com
-3.86.109.166                  avatars2.githubusercontent.com
-3.237.46.2                    avatars1.githubusercontent.com
-3.239.115.221                 avatars0.githubusercontent.com
-3.89.31.211                   avatars.githubusercontent.com
 140.82.112.3                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
@@ -49,18 +36,14 @@
 140.82.112.18                 github.community
 52.224.38.193                 github.dev
 140.82.112.3                  collector.github.com
-54.163.13.49                  pipelines.actions.githubusercontent.com
-18.205.176.116                media.githubusercontent.com
-34.228.166.246                cloud.githubusercontent.com
-3.82.16.73                    objects.githubusercontent.com
 13.107.219.40                 vscode.dev
 
 
-# Update time: 2022-11-30T14:15:54+08:00
+# Update time: 2022-11-30T16:16:40+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-30T14:15:54+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-11-30T16:16:40+08:00（内容无变动不会更新）
 
 ### 感谢
 
