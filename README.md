@@ -17,7 +17,7 @@
 # GitHub Host Start
 140.82.113.4                  alive.github.com
 140.82.113.4                  live.github.com
-52.23.166.206                 github.githubassets.com
+3.239.91.66                   github.githubassets.com
 140.82.113.4                  central.github.com
 199.232.68.133                desktop.githubusercontent.com
 140.82.113.4                  assets-cdn.github.com
@@ -31,7 +31,7 @@
 140.82.113.4                  api.github.com
 199.232.68.133                raw.githubusercontent.com
 199.232.68.133                user-images.githubusercontent.com
-199.232.68.133                favicons.githubusercontent.com
+13.66.10.115                  favicons.githubusercontent.com
 199.232.68.133                avatars5.githubusercontent.com
 199.232.68.133                avatars4.githubusercontent.com
 199.232.68.133                avatars3.githubusercontent.com
@@ -56,11 +56,11 @@
 13.107.237.51                 vscode.dev
 
 
-# Update time: 2023-01-10T02:14:46+08:00
+# Update time: 2023-01-10T04:13:13+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-10T02:14:46+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-01-10T04:13:13+08:00（内容无变动不会更新）
 
 ### 感谢
 
