@@ -17,11 +17,11 @@
 # GitHub Host Start
 140.82.112.3                  alive.github.com
 140.82.112.3                  live.github.com
-3.223.125.105                 github.githubassets.com
+34.214.5.40                   github.githubassets.com
 140.82.112.3                  central.github.com
-44.192.2.5                    desktop.githubusercontent.com
+34.221.27.22                  desktop.githubusercontent.com
 140.82.112.3                  assets-cdn.github.com
-3.94.148.41                   camo.githubusercontent.com
+54.202.53.202                 camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.112.3                  gist.github.com
@@ -29,16 +29,16 @@
 140.82.112.3                  github.com
 192.0.66.2                    github.blog
 140.82.112.3                  api.github.com
-44.214.93.235                 raw.githubusercontent.com
-18.208.154.149                user-images.githubusercontent.com
-34.239.151.201                favicons.githubusercontent.com
-18.208.154.149                avatars5.githubusercontent.com
-44.214.93.235                 avatars4.githubusercontent.com
-34.201.36.218                 avatars3.githubusercontent.com
-3.238.26.217                  avatars2.githubusercontent.com
-44.211.62.60                  avatars1.githubusercontent.com
-3.226.255.221                 avatars0.githubusercontent.com
-44.206.227.61                 avatars.githubusercontent.com
+34.215.210.253                raw.githubusercontent.com
+35.167.193.227                user-images.githubusercontent.com
+35.90.228.122                 favicons.githubusercontent.com
+54.149.131.5                  avatars5.githubusercontent.com
+52.41.114.246                 avatars4.githubusercontent.com
+54.202.250.246                avatars3.githubusercontent.com
+35.92.19.59                   avatars2.githubusercontent.com
+18.236.98.77                  avatars1.githubusercontent.com
+54.202.53.202                 avatars0.githubusercontent.com
+18.237.32.194                 avatars.githubusercontent.com
 140.82.112.3                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
@@ -49,18 +49,18 @@
 140.82.112.18                 github.community
 52.224.38.193                 github.dev
 140.82.112.3                  collector.github.com
-44.192.62.174                 pipelines.actions.githubusercontent.com
-18.212.29.236                 media.githubusercontent.com
-3.237.20.76                   cloud.githubusercontent.com
-100.26.99.89                  objects.githubusercontent.com
+18.237.32.194                 pipelines.actions.githubusercontent.com
+34.214.5.40                   media.githubusercontent.com
+35.90.228.122                 cloud.githubusercontent.com
+54.149.131.5                  objects.githubusercontent.com
 13.107.226.51                 vscode.dev
 
 
-# Update time: 2023-02-27T18:13:38+08:00
+# Update time: 2023-02-27T20:24:37+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-02-27T18:13:38+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-02-27T20:24:37+08:00（内容无变动不会更新）
 
 ### 感谢
 
