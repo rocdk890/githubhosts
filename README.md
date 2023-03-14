@@ -34,15 +34,16 @@
 72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.113.18                 github.community
+52.224.38.193                 github.dev
 140.82.114.3                  collector.github.com
 13.107.237.51                 vscode.dev
 
 
-# Update time: 2023-03-15T00:19:57+08:00
+# Update time: 2023-03-15T02:17:43+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-03-15T00:19:57+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-03-15T02:17:43+08:00（内容无变动不会更新）
 
 ### 感谢
 
