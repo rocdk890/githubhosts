@@ -27,7 +27,6 @@
 140.82.113.3                  gist.github.com
 185.199.108.153               github.io
 140.82.113.3                  github.com
-192.0.66.2                    github.blog
 140.82.113.3                  api.github.com
 151.101.76.133                raw.githubusercontent.com
 151.101.76.133                user-images.githubusercontent.com
@@ -56,11 +55,11 @@
 13.107.237.51                 vscode.dev
 
 
-# Update time: 2023-04-19T12:13:07+08:00
+# Update time: 2023-04-19T20:21:17+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-04-19T12:13:07+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-04-19T20:21:17+08:00（内容无变动不会更新）
 
 ### 感谢
 
