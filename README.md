@@ -20,6 +20,8 @@
 140.82.113.4                  github.githubassets.com
 140.82.114.3                  central.github.com
 140.82.114.3                  assets-cdn.github.com
+151.101.1.6                   github.map.fastly.net
+151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.3                  gist.github.com
 185.199.108.153               github.io
 140.82.114.3                  github.com
@@ -35,14 +37,14 @@
 140.82.114.18                 github.community
 52.224.38.193                 github.dev
 140.82.114.3                  collector.github.com
-13.107.237.51                 vscode.dev
+13.107.226.40                 vscode.dev
 
 
-# Update time: 2023-04-28T20:19:40+08:00
+# Update time: 2023-04-29T02:13:41+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-04-28T20:19:40+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-04-29T02:13:41+08:00（内容无变动不会更新）
 
 ### 感谢
 
