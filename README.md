@@ -28,6 +28,11 @@
 192.0.66.2                    github.blog
 140.82.113.3                  api.github.com
 140.82.113.3                  codeload.github.com
+72.21.206.80                  github-cloud.s3.amazonaws.com
+72.21.206.80                  github-com.s3.amazonaws.com
+72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
+72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
+72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.114.17                 github.community
 52.224.38.193                 github.dev
@@ -35,11 +40,11 @@
 13.107.226.40                 vscode.dev
 
 
-# Update time: 2023-05-05T04:12:16+08:00
+# Update time: 2023-05-05T06:10:24+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-05-05T04:12:16+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-05-05T06:10:24+08:00（内容无变动不会更新）
 
 ### 感谢
 
