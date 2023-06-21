@@ -29,10 +29,8 @@
 140.82.113.4                  api.github.com
 199.232.68.133                raw.githubusercontent.com
 199.232.68.133                user-images.githubusercontent.com
-199.232.68.133                favicons.githubusercontent.com
 199.232.68.133                avatars5.githubusercontent.com
-199.232.68.133                avatars4.githubusercontent.com
-199.232.68.133                avatars0.githubusercontent.com
+199.232.68.133                avatars2.githubusercontent.com
 140.82.113.4                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
@@ -43,15 +41,15 @@
 140.82.112.18                 github.community
 52.224.38.193                 github.dev
 140.82.113.4                  collector.github.com
-199.232.68.133                objects.githubusercontent.com
+199.232.68.133                media.githubusercontent.com
 13.107.226.40                 vscode.dev
 
 
-# Update time: 2023-06-21T09:02:01+08:00
+# Update time: 2023-06-21T10:35:28+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-06-21T09:02:01+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-06-21T10:35:28+08:00（内容无变动不会更新）
 
 ### 感谢
 
