@@ -20,7 +20,6 @@
 140.82.112.3                  central.github.com
 199.232.68.133                desktop.githubusercontent.com
 140.82.112.3                  assets-cdn.github.com
-199.232.68.133                camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.112.3                  gist.github.com
@@ -30,9 +29,8 @@
 140.82.112.3                  api.github.com
 185.199.108.133               raw.githubusercontent.com
 199.232.68.133                user-images.githubusercontent.com
-199.232.68.133                avatars3.githubusercontent.com
+199.232.68.133                avatars4.githubusercontent.com
 185.199.108.133               avatars2.githubusercontent.com
-185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
 140.82.112.3                  codeload.github.com
@@ -45,16 +43,17 @@
 140.82.112.18                 github.community
 52.224.38.193                 github.dev
 140.82.112.3                  collector.github.com
-199.232.68.133                pipelines.actions.githubusercontent.com
+185.199.108.133               pipelines.actions.githubusercontent.com
 185.199.108.133               cloud.githubusercontent.com
-185.199.108.133               objects.githubusercontent.com
+199.232.68.133                objects.githubusercontent.com
+13.107.226.40                 vscode.dev
 
 
-# Update time: 2023-06-22T12:13:48+08:00
+# Update time: 2023-06-22T14:14:26+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-06-22T12:13:48+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-06-22T14:14:26+08:00（内容无变动不会更新）
 
 ### 感谢
 
