@@ -16,6 +16,9 @@
 ```bash
 # GitHub Host Start
 140.82.114.3                  alive.github.com
+140.82.114.3                  live.github.com
+140.82.114.3                  central.github.com
+140.82.114.3                  assets-cdn.github.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.3                  gist.github.com
@@ -36,11 +39,11 @@
 13.107.226.40                 vscode.dev
 
 
-# Update time: 2023-09-16T20:19:53+08:00
+# Update time: 2023-09-16T22:09:10+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-09-16T20:19:53+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-09-16T22:09:10+08:00（内容无变动不会更新）
 
 ### 感谢
 
