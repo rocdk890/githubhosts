@@ -26,6 +26,7 @@
 140.82.114.3                  github.com
 192.0.66.2                    github.blog
 140.82.114.3                  api.github.com
+151.101.0.133                 avatars3.githubusercontent.com
 140.82.114.3                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
@@ -39,11 +40,11 @@
 13.107.226.40                 vscode.dev
 
 
-# Update time: 2023-10-03T00:13:51+08:00
+# Update time: 2023-10-04T10:20:37+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-10-03T00:13:51+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-10-04T10:20:37+08:00（内容无变动不会更新）
 
 ### 感谢
 
