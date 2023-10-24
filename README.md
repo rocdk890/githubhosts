@@ -18,7 +18,9 @@
 140.82.114.4                  alive.github.com
 140.82.114.4                  live.github.com
 140.82.114.4                  central.github.com
+99.232.28.133                 desktop.githubusercontent.com
 140.82.114.4                  assets-cdn.github.com
+99.232.28.133                 camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.4                  gist.github.com
@@ -26,6 +28,16 @@
 140.82.114.4                  github.com
 192.0.66.2                    github.blog
 140.82.114.4                  api.github.com
+99.232.28.133                 raw.githubusercontent.com
+99.232.28.133                 user-images.githubusercontent.com
+99.232.28.133                 favicons.githubusercontent.com
+99.232.28.133                 avatars5.githubusercontent.com
+99.232.28.133                 avatars4.githubusercontent.com
+99.232.28.133                 avatars3.githubusercontent.com
+99.232.28.133                 avatars2.githubusercontent.com
+99.232.28.133                 avatars1.githubusercontent.com
+99.232.28.133                 avatars0.githubusercontent.com
+99.232.28.133                 avatars.githubusercontent.com
 140.82.114.4                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
@@ -36,14 +48,18 @@
 140.82.114.17                 github.community
 52.224.38.193                 github.dev
 140.82.114.4                  collector.github.com
+99.232.28.133                 pipelines.actions.githubusercontent.com
+99.232.28.133                 media.githubusercontent.com
+99.232.28.133                 cloud.githubusercontent.com
+99.232.28.133                 objects.githubusercontent.com
 13.107.226.40                 vscode.dev
 
 
-# Update time: 2023-10-24T18:12:53+08:00
+# Update time: 2023-10-24T20:20:30+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2023-10-24T18:12:53+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2023-10-24T20:20:30+08:00（内容无变动不会更新）
 
 ### 感谢
 
