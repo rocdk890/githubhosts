@@ -18,7 +18,6 @@
 140.82.114.4                  alive.github.com
 140.82.114.4                  live.github.com
 140.82.114.4                  central.github.com
-140.82.114.4                  assets-cdn.github.com
 199.232.69.194                github.map.fastly.net
 199.232.69.194                github.global.ssl.fastly.net
 140.82.114.4                  gist.github.com
@@ -29,21 +28,19 @@
 140.82.114.4                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
-72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
 72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
 72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.114.17                 github.community
 52.224.38.193                 github.dev
 140.82.114.4                  collector.github.com
-13.107.226.40                 vscode.dev
 
 
-# Update time: 2024-03-14T20:20:24+08:00
+# Update time: 2024-03-15T14:18:18+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2024-03-14T20:20:24+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2024-03-15T14:18:18+08:00（内容无变动不会更新）
 
 ### 感谢
 
