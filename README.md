@@ -18,9 +18,7 @@
 140.82.114.3                  alive.github.com
 140.82.114.3                  live.github.com
 140.82.114.3                  central.github.com
-199.232.4.133                 desktop.githubusercontent.com
 140.82.114.3                  assets-cdn.github.com
-199.232.4.133                 camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
 151.101.1.6                   github.global.ssl.fastly.net
 140.82.114.3                  gist.github.com
@@ -41,11 +39,11 @@
 13.107.226.40                 vscode.dev
 
 
-# Update time: 2024-03-20T16:13:52+08:00
+# Update time: 2024-03-20T18:12:13+08:00
 # GitHub Host End
 
 ```
-上面内容会自动定时更新，保证最新有效。数据更新时间：2024-03-20T16:13:52+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2024-03-20T18:12:13+08:00（内容无变动不会更新）
 
 ### 感谢
 
